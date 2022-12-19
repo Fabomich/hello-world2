@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 includes github
 
 blablalablababa new update
+
+novy riadok
